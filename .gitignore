@@ -1,7 +1,10 @@
-.venv/
 .env
+RitHan.db
+.venv/
+venv/
 __pycache__/
+static/generated/
+backend/static/generated/
+*.png
 *.pyc
-*.db
 instance/
-.DS_Store
